@@ -1,0 +1,829 @@
+
+{
+	"serviceCode": "commonCalendar",
+	"serviceName": "common/calendar",
+	"succeedYn": true,
+	"transactionSetID": 20191127153128,
+	"result": {
+		"calendars": [
+			{
+				"year": 2019,
+				"month": 12,
+				"days": [
+					[
+						{
+							"day": 1,
+							"weekdayNo": 0,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": true
+						},
+						{
+							"day": 2,
+							"weekdayNo": 1,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 3,
+							"weekdayNo": 2,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 4,
+							"weekdayNo": 3,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 5,
+							"weekdayNo": 4,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 6,
+							"weekdayNo": 5,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 7,
+							"weekdayNo": 6,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": true
+						}
+					],
+					[
+						{
+							"day": 8,
+							"weekdayNo": 0,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": true
+						},
+						{
+							"day": 9,
+							"weekdayNo": 1,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 10,
+							"weekdayNo": 2,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 11,
+							"weekdayNo": 3,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 12,
+							"weekdayNo": 4,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 13,
+							"weekdayNo": 5,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 14,
+							"weekdayNo": 6,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": true
+						}
+					],
+					[
+						{
+							"day": 15,
+							"weekdayNo": 0,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": true
+						},
+						{
+							"day": 16,
+							"weekdayNo": 1,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 17,
+							"weekdayNo": 2,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 18,
+							"weekdayNo": 3,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 19,
+							"weekdayNo": 4,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 20,
+							"weekdayNo": 5,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 21,
+							"weekdayNo": 6,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": true
+						}
+					],
+					[
+						{
+							"day": 22,
+							"weekdayNo": 0,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": true
+						},
+						{
+							"day": 23,
+							"weekdayNo": 1,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 24,
+							"weekdayNo": 2,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 25,
+							"weekdayNo": 3,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false,
+							"holidayName": "성탄절"
+						},
+						{
+							"day": 26,
+							"weekdayNo": 4,
+							"pastMonthYn": true,
+							"selectableYn": false,
+							"holidayYn": false
+						},
+						{
+							"day": 27,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 28,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						}
+					],
+					[
+						{
+							"day": 29,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 30,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 31,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 1,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"holidayName": "신정"
+						},
+						{
+							"day": 2,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 3,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 4,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						}
+					]
+				]
+			},
+			{
+				"year": 2020,
+				"month": 1,
+				"days": [
+					[
+						{
+							"day": 29,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 30,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 31,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 1,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"holidayName": "신정"
+						},
+						{
+							"day": 2,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 3,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 125000.00
+						},
+						{
+							"day": 4,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true,
+							"flightAmount": 185000.00
+						}
+					],
+					[
+						{
+							"day": 5,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 6,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 7,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 135500.00
+						},
+						{
+							"day": 8,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 105000.00
+						},
+						{
+							"day": 9,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 125500.00
+						},
+						{
+							"day": 10,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 125000.00
+						},
+						{
+							"day": 11,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						}
+					],
+					[
+						{
+							"day": 12,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true,
+							"flightAmount": 197300.00
+						},
+						{
+							"day": 13,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 125000.00
+						},
+						{
+							"day": 14,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 130000.00
+						},
+						{
+							"day": 15,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 16,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 95000.00
+						},
+						{
+							"day": 17,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 18,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true,
+							"flightAmount": 125000.00
+						}
+					],
+					[
+						{
+							"day": 19,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 20,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 21,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 125000.00
+						},
+						{
+							"day": 22,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 146800.00
+						},
+						{
+							"day": 23,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 156200.00
+						},
+						{
+							"day": 24,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true,
+							"flightAmount": 295000.00
+						},
+						{
+							"day": 25,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true,
+							"holidayName": "설날"
+						}
+					],
+					[
+						{
+							"day": 26,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 27,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true,
+							"flightAmount": 125000.00
+						},
+						{
+							"day": 28,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 130000.00
+						},
+						{
+							"day": 29,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 30,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false,
+							"flightAmount": 110500.00
+						},
+						{
+							"day": 31,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 1,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						}
+					]
+				]
+			},
+			{
+				"year": 2020,
+				"month": 2,
+				"days": [
+					[
+						{
+							"day": 26,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 27,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 28,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 29,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 30,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 31,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 1,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						}
+					],
+					[
+						{
+							"day": 2,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 3,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 4,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 5,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 6,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 7,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 8,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						}
+					],
+					[
+						{
+							"day": 9,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 10,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 11,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 12,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 13,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 14,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 15,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						}
+					],
+					[
+						{
+							"day": 16,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 17,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 18,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 19,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 20,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 21,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 22,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						}
+					],
+					[
+						{
+							"day": 23,
+							"weekdayNo": 0,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						},
+						{
+							"day": 24,
+							"weekdayNo": 1,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 25,
+							"weekdayNo": 2,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 26,
+							"weekdayNo": 3,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 27,
+							"weekdayNo": 4,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 28,
+							"weekdayNo": 5,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": false
+						},
+						{
+							"day": 29,
+							"weekdayNo": 6,
+							"pastMonthYn": false,
+							"selectableYn": true,
+							"holidayYn": true
+						}
+					]
+				]
+			}
+		],
+		"period": {
+			"firstDate": "2019-12-04",
+			"lastDate": "2020-12-04"
+		},
+		"weekdayTitle": [
+			"SUN",
+			"MON",
+			"TUE",
+			"WED",
+			"THU",
+			"FRI",
+			"SAT"
+		]
+	}
+}
